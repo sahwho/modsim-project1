@@ -6,6 +6,10 @@
     A Player has an id (like "P1"), as well as preferences for 2 strategies (which sum to 1.0).
     and keeps track of how many games they've played, plus their total score and average score.
     If you use this class, feel free to rename it Player.py
+
+    Inspiration drawn from the work done by Dr. Andrew Davison (PSU)
+
+    sample usage: p1 = SahuPlayer("P1")
 '''
 
 import random
